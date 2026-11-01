@@ -132,8 +132,6 @@ Para parcerias editoriais, aquisição de direitos, treinamentos corporativos ou
 [![Tabela de Preços e Serviços](https://img.shields.io/badge/GitHub-Tabela_de_Preços-181717?style=for-the-badge&logo=github)](https://github.com/chaos4455/TABELA-PRECOS)
 [![Agendar Reunião](https://img.shields.io/badge/Calendly-Agendar_Conversa-006BFF?style=for-the-badge&logo=calendly&logoColor=white)](https://calendly.com/oeliasandrade/30min)
 
-> *"IA não é fim. IA é meio para decidir melhor, mais rápido e com menor custo."*
-```
 
 <img width="1024" height="1536" alt="Segurança e arquitetura de APIs com FastAPI-1" src="https://github.com/user-attachments/assets/a393f753-35c7-45da-a0cd-406a8049d2c7" />
 <img width="1024" height="1536" alt="Tatu-canastra na capa técnica-2" src="https://github.com/user-attachments/assets/0dd1766b-201d-41d8-8f66-1b9290e956be" />
