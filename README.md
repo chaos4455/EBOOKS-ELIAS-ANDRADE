@@ -1,8 +1,3 @@
-Aqui está o arquivo **`README.md`** completo e otimizado para o seu repositório no GitHub. Ele foi estruturado no mesmo padrão visual do seu portfólio (badges, organização técnica, links, autoridade em IA/Dados e esteira agêntica de ponta a ponta).
-
----
-
-```markdown
 # 📚 Biblioteca Técnica de Engenharia, IA & Decisão
 ## 🤖 29 E-books Técnicos Gerados por Esteira Autônoma Multi-Agente & Context Engineering
 
